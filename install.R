@@ -1,6 +1,6 @@
 # Fixed package versions
 packages <- list(
-  "tidyverse" = "1.3.2",   
+  "tidyverse" = "2.0.0",   
   "openxlsx"  = "4.2.5"    
 )
 
